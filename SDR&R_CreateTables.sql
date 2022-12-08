@@ -6,29 +6,28 @@
 -- To reset the sample schema, replace everything with
 -- two dots ('..' - without quotes).
 
-CREATE TABLE "std" (
-    "Indicator" varchar   NOT NULL,
-    "Geography" varchar   NOT NULL,
-    "Year" int   NOT NULL,
-    "Number_of_STD_Cases" int   NOT NULL,
-    "STD_Rate_per_100000" float   NOT NULL
+CREATE TABLE std (
+    indicator varchar NOT NULL,
+    geography varchar NOT NULL,
+    year int NOT NULL,
+    number_of_std_cases int NOT NULL,
+    std_rate_per_100000 float NOT NULL
 );
 
-CREATE TABLE "dpm" (
-    "State" varchar   NOT NULL,
-    "Year" int   NOT NULL,
-    "Deaths" int   NOT NULL,
-    "Population" int   NOT NULL,
-    "Crude_Death_Rate" float   NOT NULL,
-    "Standard_Error" float   NOT NULL,
-    "Lower_Confidence_Limit" float   NOT NULL,
-    "Upper_Confidence_Limit" float   NOT NULL,
-    "Age-adjusted_Rate" float   NOT NULL,
-    "Standard_Error_for_Age-adjusted_Rate" float   NOT NULL,
-    "Lower_Confidence_Limit_for_Age-adjusted_Rate" float   NOT NULL,
-    "Upper_Confidence_Limit_for_Age-adjusted_Rate" float   NOT NULL,
-    "State_Crude_Rate_in_Range" varchar   NOT NULL,
-    "US_Crude_Rate" float   NOT NULL,
-    "US_Age-adjusted_Rate" float   NOT NULL
+CREATE TABLE dpm (
+    state varchar NOT NULL,
+    year int NOT NULL,
+    deaths int NOT NULL,
+    population int NOT NULL,
+    crude_death_rate float NOT NULL,
+    standard_error_for_crude_rate float NOT NULL,
+    lower_confidence_limit_for_crude_rate float NOT NULL,
+    upper_confidence_limit_for_crude_rate float NOT NULL,
+    age_adjusted_rate float NOT NULL,
+    standard_error_for_age_adjusted_rate float NOT NULL,
+    lower_confidence_limit_for_age_adjusted_rate float NOT NULL,
+    upper_confidence_limit_for_age_adjusted_rate float NOT NULL,
+    state_crude_rate_in_range varchar NOT NULL,
+    us_crude_rate float NOT NULL,
+    us_age_adjusted_rate float NOT NULL
 );
-
