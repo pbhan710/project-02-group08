@@ -40,11 +40,11 @@ We then went on to merge the columns on the State and Year columns
 
 * ## Flow Chart and Schema:
 
-![Shot_5](https://user-images.githubusercontent.com/112498067/206606268-692f105b-e2ed-42a2-bef2-e68b864c80ba.png)
+![Shot_5](https://user-images.githubusercontent.com/112498067/206607691-c9895460-1720-48e8-9c84-897fe72519ad.png)
 
 * ## Joined Data:
 
-![Shot_5](https://user-images.githubusercontent.com/112498067/206607691-c9895460-1720-48e8-9c84-897fe72519ad.png)
+![Table_joined](https://user-images.githubusercontent.com/112498067/206608228-18251f08-6313-49dd-9711-a4fcecac9fbe.png)
 
 
 
