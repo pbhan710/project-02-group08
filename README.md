@@ -44,5 +44,7 @@ We then went on to merge the columns on the State and Year columns
 
 * ## Joined Data:
 
-![Table_joined](https://user-images.githubusercontent.com/112498067/206605485-27fadee5-4728-41e7-89a5-bbdbd054dad4.png)
+![Shot_5](https://user-images.githubusercontent.com/112498067/206607691-c9895460-1720-48e8-9c84-897fe72519ad.png)
+
+
 
