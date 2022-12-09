@@ -3,9 +3,11 @@
 Repository of project proposal, code, report and deliverables for Project 02: ETL Process
 
 # Sex, Drugs, & Rock 'n' Roll
+### We provided the rock ‘n’ roll!
 
-Project Report
-(We provided the rock ‘n’ roll)
+[Project Proposal](https://docs.google.com/document/d/1RFb7IEyzIcZibg6yYicxdovRzCjD16xTP9S5BatR0ic)
+
+[Project Report](https://docs.google.com/document/d/1jK2BWVyp8J8xNuurK2LMisBjWJ_Bf4_onJ2J_zObW2w/edit#heading=h.nnmbyo668zdd)
 
 ## Overview:
 
@@ -40,11 +42,11 @@ We then went on to merge the columns on the State and Year columns
 
 * ## Flow Chart and Schema:
 
-![Shot_5](https://user-images.githubusercontent.com/112498067/206606268-692f105b-e2ed-42a2-bef2-e68b864c80ba.png)
+![Shot_5](https://user-images.githubusercontent.com/112498067/206607691-c9895460-1720-48e8-9c84-897fe72519ad.png)
 
 * ## Joined Data:
 
-![Shot_5](https://user-images.githubusercontent.com/112498067/206607691-c9895460-1720-48e8-9c84-897fe72519ad.png)
+![Table_joined](https://user-images.githubusercontent.com/112498067/206608228-18251f08-6313-49dd-9711-a4fcecac9fbe.png)
 
 
 
