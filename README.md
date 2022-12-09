@@ -3,11 +3,11 @@
 Repository of project proposal, code, report and deliverables for Project 02: ETL Process
 
 # Sex, Drugs, & Rock 'n' Roll
+### We provided the rock ‘n’ roll!
 
 [Project Proposal](https://docs.google.com/document/d/1RFb7IEyzIcZibg6yYicxdovRzCjD16xTP9S5BatR0ic)
 
 [Project Report](https://docs.google.com/document/d/1jK2BWVyp8J8xNuurK2LMisBjWJ_Bf4_onJ2J_zObW2w/edit#heading=h.nnmbyo668zdd)
-(We provided the rock ‘n’ roll)
 
 ## Overview:
 
